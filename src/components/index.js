@@ -1,0 +1,10 @@
+export { default as Loding } from "./Loading";
+export { default as Login } from "./Login";
+export { default as Header } from "./Header";
+export { default as Feeds } from "./Feeds";
+export { default as Pin } from "./Pin";
+export { default as Spinner } from "./Spinner";
+export { default as PinDetails } from "./PinDetails";
+export { default as Category } from "./Category";
+export { default as Search } from "./Search";
+export { default as NewPin } from "./NewPin";
